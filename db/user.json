@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5c4004b085366c70b35bbd93"},"firstname":"Olan","lastname":"Samritjiarapon","email":"olan@olanlab.com","age":20,"status":"active"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd94"},"firstname":"Sara","lastname":"JR","email":"sara@gmail.com","age":19.0,"status":"active"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd95"},"firstname":"John","lastname":"Gerrand","email":"john@gmail.com","age":33.0,"status":"active"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd96"},"firstname":"Mary","lastname":"Gig","email":"mary@gmail.com","age":42.0,"status":"active"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd97"},"firstname":"Jimmy","lastname":"Beckham","email":"jimmy@gmail.com","age":24.0,"status":"pending"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd98"},"firstname":"Tony","lastname":"Bee","email":"tony@gmail.com","age":15.0,"status":"pending"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd99"},"firstname":"Hope","lastname":"Henderson","email":"hope@gmail.com","age":50.0,"status":"pending"}
+{"_id":{"$oid":"5c4004b085366c70b35bbd9a"},"firstname":"Bank","lastname":"Jar","email":"bank@gmail.com","age":60.0,"status":"pending"}
+{"_id":{"$oid":"5c402e04607fb23bdce4ad91"},"firstname":"bbb","lastname":"ccc","email":"sss@hotmail.com","age":45,"Status":"pending","__v":0}

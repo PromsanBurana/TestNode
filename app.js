@@ -3,10 +3,12 @@ var express = require("express");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
+var keys = require("./config/keys");
 
 //Connect mongoDB
 var mongoose = require("mongoose");
-mongoose.connect("mongodb://localhost/shopper");
+mongoose.connect(keys.mongoURI);
+//mongoose.connect("mongodb://localhost/shopper");
 mongoose.Promise = global.Promise;
 
 var app = express();
